@@ -4,3 +4,6 @@ if 6 > 1:
 #%%
 help(print)
 # %%
+import os
+os.getcwd()
+# %%
